@@ -1,0 +1,15 @@
+/home/mp/Eigene Dateien/Studium/c#/seminar2/tasks/task1_MaxOf2/bin/Debug/net6.0/task1_MaxOf2
+/home/mp/Eigene Dateien/Studium/c#/seminar2/tasks/task1_MaxOf2/bin/Debug/net6.0/task1_MaxOf2.deps.json
+/home/mp/Eigene Dateien/Studium/c#/seminar2/tasks/task1_MaxOf2/bin/Debug/net6.0/task1_MaxOf2.runtimeconfig.json
+/home/mp/Eigene Dateien/Studium/c#/seminar2/tasks/task1_MaxOf2/bin/Debug/net6.0/task1_MaxOf2.dll
+/home/mp/Eigene Dateien/Studium/c#/seminar2/tasks/task1_MaxOf2/bin/Debug/net6.0/ref/task1_MaxOf2.dll
+/home/mp/Eigene Dateien/Studium/c#/seminar2/tasks/task1_MaxOf2/bin/Debug/net6.0/task1_MaxOf2.pdb
+/home/mp/Eigene Dateien/Studium/c#/seminar2/tasks/task1_MaxOf2/obj/Debug/net6.0/task1_MaxOf2.csproj.AssemblyReference.cache
+/home/mp/Eigene Dateien/Studium/c#/seminar2/tasks/task1_MaxOf2/obj/Debug/net6.0/task1_MaxOf2.GeneratedMSBuildEditorConfig.editorconfig
+/home/mp/Eigene Dateien/Studium/c#/seminar2/tasks/task1_MaxOf2/obj/Debug/net6.0/task1_MaxOf2.AssemblyInfoInputs.cache
+/home/mp/Eigene Dateien/Studium/c#/seminar2/tasks/task1_MaxOf2/obj/Debug/net6.0/task1_MaxOf2.AssemblyInfo.cs
+/home/mp/Eigene Dateien/Studium/c#/seminar2/tasks/task1_MaxOf2/obj/Debug/net6.0/task1_MaxOf2.csproj.CoreCompileInputs.cache
+/home/mp/Eigene Dateien/Studium/c#/seminar2/tasks/task1_MaxOf2/obj/Debug/net6.0/task1_MaxOf2.dll
+/home/mp/Eigene Dateien/Studium/c#/seminar2/tasks/task1_MaxOf2/obj/Debug/net6.0/ref/task1_MaxOf2.dll
+/home/mp/Eigene Dateien/Studium/c#/seminar2/tasks/task1_MaxOf2/obj/Debug/net6.0/task1_MaxOf2.pdb
+/home/mp/Eigene Dateien/Studium/c#/seminar2/tasks/task1_MaxOf2/obj/Debug/net6.0/task1_MaxOf2.genruntimeconfig.cache

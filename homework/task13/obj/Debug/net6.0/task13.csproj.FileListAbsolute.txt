@@ -1,0 +1,15 @@
+/home/mp/Eigene Dateien/Studium/c#/seminar2/homework/task13/bin/Debug/net6.0/task13
+/home/mp/Eigene Dateien/Studium/c#/seminar2/homework/task13/bin/Debug/net6.0/task13.deps.json
+/home/mp/Eigene Dateien/Studium/c#/seminar2/homework/task13/bin/Debug/net6.0/task13.runtimeconfig.json
+/home/mp/Eigene Dateien/Studium/c#/seminar2/homework/task13/bin/Debug/net6.0/task13.dll
+/home/mp/Eigene Dateien/Studium/c#/seminar2/homework/task13/bin/Debug/net6.0/ref/task13.dll
+/home/mp/Eigene Dateien/Studium/c#/seminar2/homework/task13/bin/Debug/net6.0/task13.pdb
+/home/mp/Eigene Dateien/Studium/c#/seminar2/homework/task13/obj/Debug/net6.0/task13.csproj.AssemblyReference.cache
+/home/mp/Eigene Dateien/Studium/c#/seminar2/homework/task13/obj/Debug/net6.0/task13.GeneratedMSBuildEditorConfig.editorconfig
+/home/mp/Eigene Dateien/Studium/c#/seminar2/homework/task13/obj/Debug/net6.0/task13.AssemblyInfoInputs.cache
+/home/mp/Eigene Dateien/Studium/c#/seminar2/homework/task13/obj/Debug/net6.0/task13.AssemblyInfo.cs
+/home/mp/Eigene Dateien/Studium/c#/seminar2/homework/task13/obj/Debug/net6.0/task13.csproj.CoreCompileInputs.cache
+/home/mp/Eigene Dateien/Studium/c#/seminar2/homework/task13/obj/Debug/net6.0/task13.dll
+/home/mp/Eigene Dateien/Studium/c#/seminar2/homework/task13/obj/Debug/net6.0/ref/task13.dll
+/home/mp/Eigene Dateien/Studium/c#/seminar2/homework/task13/obj/Debug/net6.0/task13.pdb
+/home/mp/Eigene Dateien/Studium/c#/seminar2/homework/task13/obj/Debug/net6.0/task13.genruntimeconfig.cache

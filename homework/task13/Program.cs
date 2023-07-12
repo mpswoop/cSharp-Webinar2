@@ -1,4 +1,4 @@
-﻿// input number - output third digit from left or digit does not exist
+﻿// input number - output third digit or digit does not exist
 Console.WriteLine("please input a number");
 
 int num = Int32.Parse (Console.ReadLine());
